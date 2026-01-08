@@ -16,12 +16,16 @@ J'ai aussi travailler sur un projets de fin d'année en BTS en groupe de 4 ou no
 ## 3 Compétences techniques 
 
 Au cours de mon parcours j'ai eu l'occasion d'utiliser plusieurs technologie et outils tels
-que le câblage cuivre, les language de programmation (C, C++, Bases de données et des notion de PHP) mais aussi la suites office
+que le câblage cuivre, les language de programmation (C, C++, Bases de données et des notion de PHP,HMTL et CSS) mais aussi la suites office
 
+Language de programmation objets:
 -C 
 -C++
+Language de programmation web:
+PHP, HMTL et CSS 
+Base de données:
 -MySQL
--PHP
+
 
 ## 4 Projet marquant
 
