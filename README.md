@@ -2,37 +2,26 @@
 
 ## 1 Présentation
 
-Je m'appelle Mathieu, 
-j'ai effecuté un bac STI 2D, BTS ciel (alternance au Commissariat du Numérique de la Défense, dans l’équipe de la téléphonie de la base navale). Formation à l’isen Dev IA, recherche d’alternance.
+Je m'appelle Mathieu, j'ai 21 ans, 
+j'ai effecuté un bac STI 2D, et un BTS ciel (alternance au Commissariat du Numérique de la Défense, dans l’équipe de la téléphonie de la base navale). je suis actuellement en formation à l’isen en Devellopement IA et a la recherche d'une alternance.
 
-2. pourquoi as-tu choisi cette formation ? 
-
-C’est un métier d’avenir qui l’intéresse.
+J'ai choisis cette formation car c'est un domainde d'avenir qui m'interesse et dans lequelle je me vois travailler dans le futur.
 
 ## 2 Parcours & expérience 
 
-3. Quel élément de ton parcours te semble le plus pertinent aujourd’hui ? 
-Mon alternance car je me suis occupé de projets importants (migration entiere des téléphones sur un site de l’armée, plus de 600 postes), travail de technicien et beaucoup de gestion de clientèle.
+J'ai effectué une Alternance au seins du Comissaria au numérique de défense pendant 2 ans au sains duquelle j'ai pu travailler en tant que téchnicien téléphonique et ainsi m'occuper du bon fonctionnement du réseau téléphonique. 
 
-4. As-tu déjà travaillé sur un projet (formation, perso ou pro) ? Dans quel contexte ?
-
-Projet de BTS en groupe de 4 : faire un parking connecté (balises, site web, tout de A à Z, programme, base de données, dans le contexte de la formation).
+J'ai aussi travailler sur un projets de fin d'année en BTS en groupe de 4 ou nous devions ainsi créer un parking connecté a partir de 0 (balises physiques, sites web, programme, bases de données etc)
 
 ## 3 Compétences techniques 
 5. Quelles technologies ou outils as-tu déjà utilisés ? 
+Au cours de mon parcours j'ai eu l'occasion d'utiliser plusieurs technologie et outils tels
+que le câblage cuivre, les language de programmation (C, C++, Bases de données et des notion de PHP) mais aussi la suites office
 
-Bases de données, C++, C, PHP (notions), suite office, câblage cuivre
+ce que je maîtrise le plus a l'heure actuelle est le câblage cuivre ainsi que les language de programmation C et C++
 
-6. Parmi eux, lesquels te semblent les plus maîtrisés aujourd’hui ?
+## 4 Projet marquant
 
-La techno cuivre, le C et C++
+Le projets le plus marquant de mon parcours et la migration d'un site militaire en entier de technologie cuivre a IP (dans les temps et aucun problème au final, ce qui est satisfaisant pour un tel projet d’envergure)
 
-## Projet marquant 
-
-8. Peux-tu décrire un projet ou un exercice dont tu es satisfait(e) ? 
-
-La migration du site militaire en entier (dans les temps et aucun problème au final, ce qui est satisfaisant pour un tel projet d’envergure)
-
-9. Quelle difficulté principale as-tu rencontrée et comment l’as-tu abordée ?
-
-principale problématique : la gestion de clients, gérer avec diplomatie et calme.
+les principales problématiques de ce projets on été la gestion de la clientelles qui a pu être gérer avec de la dîplomatie et du calme pour allié au mieux le besoin clients et la faisabilité réel 
