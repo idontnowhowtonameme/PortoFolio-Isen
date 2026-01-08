@@ -1,35 +1,27 @@
-# Portofolio Isen 
-
+# Portfolio ISEN
 ## 1 Présentation
+Je m'appelle Mathieu, j'ai 21 ans. J'ai effectué un bac STI2D et un BTS CIEL (en alternance au Commissariat au Numérique de la Défense, dans l’équipe de téléphonie de la base navale). Je suis actuellement en formation à l’ISEN en Développement IA et à la recherche d'une alternance.
 
-Je m'appelle Mathieu, j'ai 21 ans, 
-j'ai effecuté un bac STI 2D, et un BTS ciel (alternance au Commissariat du Numérique de la Défense, dans l’équipe de la téléphonie de la base navale). je suis actuellement en formation à l’isen en Devellopement IA et a la recherche d'une alternance.
+J'ai choisi cette formation car c'est un domaine d'avenir qui m'intéresse et dans lequel je me vois travailler dans le futur.
 
-J'ai choisis cette formation car c'est un domainde d'avenir qui m'interesse et dans lequelle je me vois travailler dans le futur.
+## 2 Parcours & expérience
+J'ai effectué une alternance au sein du Commissariat au numérique de défense pendant 2 ans, au cours de laquelle j'ai pu travailler en tant que technicien réseau téléphonique et ainsi m'occuper du bon fonctionnement du réseau.
 
-## 2 Parcours & expérience 
+J'ai aussi travaillé sur un projet de fin d'année en BTS, en groupe de 4, où nous devions créer un parking connecté à partir de zéro (balises physiques, site web, programmes, bases de données, etc.).
 
-J'ai effectué une Alternance au seins du Comissaria au numérique de défense pendant 2 ans au sains duquelle j'ai pu travailler en tant que téchnicien téléphonique et ainsi m'occuper du bon fonctionnement du réseau téléphonique. 
+## 3 Compétences techniques
+Au cours de mon parcours, j'ai eu l'occasion d'utiliser plusieurs technologies et outils tels que le câblage cuivre, les langages de programmation (C, C++, bases de données et des notions de PHP, HTML et CSS) mais aussi la suite Office.
 
-J'ai aussi travailler sur un projets de fin d'année en BTS en groupe de 4 ou nous devions ainsi créer un parking connecté a partir de 0 (balises physiques, sites web, programme, bases de données etc)
+#### Langages de programmation objet :
+C et C++
 
-## 3 Compétences techniques 
+#### Langages de programmation web :
+PHP, HTML et CSS
 
-Au cours de mon parcours j'ai eu l'occasion d'utiliser plusieurs technologie et outils tels
-que le câblage cuivre, les language de programmation (C, C++, Bases de données et des notion de PHP,HMTL et CSS) mais aussi la suites office
-
-Language de programmation objets:
--C 
--C++
-Language de programmation web:
-PHP, HMTL et CSS 
-Base de données:
--MySQL
-
+#### Bases de données :
+MySQL
 
 ## 4 Projet marquant
+Le projet le plus marquant de mon parcours est la migration complète d'un site militaire de la technologie cuivre vers l'IP (réalisée dans les temps et sans aucun problème final, ce qui est satisfaisant pour un projet d’une telle envergure).
 
-Le projets le plus marquant de mon parcours et la migration d'un site militaire en entier de technologie cuivre a IP (dans les temps et aucun problème au final, ce qui est satisfaisant pour un tel projet d’envergure)
-
-les principales problématiques de ce projets on été la gestion de la clientelles qui a pu être gérer avec de la dîplomatie et du calme pour allié au mieux le besoin clients et la faisabilité réel 
-
+Les principales problématiques de ce projet ont été la gestion de la clientèle, qui a pu être menée avec diplomatie et calme pour allier au mieux le besoin client et la faisabilité réelle.
