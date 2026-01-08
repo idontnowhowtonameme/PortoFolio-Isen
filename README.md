@@ -14,14 +14,18 @@ J'ai effectué une Alternance au seins du Comissaria au numérique de défense p
 J'ai aussi travailler sur un projets de fin d'année en BTS en groupe de 4 ou nous devions ainsi créer un parking connecté a partir de 0 (balises physiques, sites web, programme, bases de données etc)
 
 ## 3 Compétences techniques 
-5. Quelles technologies ou outils as-tu déjà utilisés ? 
+
 Au cours de mon parcours j'ai eu l'occasion d'utiliser plusieurs technologie et outils tels
 que le câblage cuivre, les language de programmation (C, C++, Bases de données et des notion de PHP) mais aussi la suites office
 
-ce que je maîtrise le plus a l'heure actuelle est le câblage cuivre ainsi que les language de programmation C et C++
+-C 
+-C++
+-MySQL
+-PHP
 
 ## 4 Projet marquant
 
 Le projets le plus marquant de mon parcours et la migration d'un site militaire en entier de technologie cuivre a IP (dans les temps et aucun problème au final, ce qui est satisfaisant pour un tel projet d’envergure)
 
 les principales problématiques de ce projets on été la gestion de la clientelles qui a pu être gérer avec de la dîplomatie et du calme pour allié au mieux le besoin clients et la faisabilité réel 
+
