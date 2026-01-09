@@ -5,9 +5,7 @@
     --white: #ffffff;
 }
 
-html {
-    scroll-behavior: smooth;
-}
+html { scroll-behavior: smooth; }
 
 body {
     font-family: 'Segoe UI', Arial, sans-serif;
@@ -30,7 +28,7 @@ body {
 
 .hero-content h1 {
     font-size: 4rem;
-    margin-bottom: 10px;
+    margin: 0 0 10px 0;
     letter-spacing: 2px;
 }
 
@@ -46,7 +44,6 @@ body {
     font-size: 1.1rem;
 }
 
-/* Grille de boutons sur la page de garde */
 .hero-nav {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -64,6 +61,10 @@ body {
     font-weight: bold;
     transition: all 0.3s ease;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+    cursor: pointer;
+    border: none;
+    font-size: 1rem;
+    text-align: center;
 }
 
 .btn:hover {
@@ -93,9 +94,7 @@ h2 {
     margin-bottom: 50px;
 }
 
-.gray-bg {
-    background-color: var(--light-gray);
-}
+.gray-bg { background-color: var(--light-gray); }
 
 /* --- CARTES ET ÉLÉMENTS --- */
 .card, .skill-card, .project-box {
@@ -112,31 +111,20 @@ h2 {
     gap: 20px;
 }
 
+.skill-card h4 { margin-top: 0; color: var(--primary); }
+
 .contact-info {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     background: #e9ecef;
-    padding: 40px;
+    padding: 30px;
     border-radius: 15px;
 }
 
-.contact-info a {
-    color: var(--primary);
-    text-decoration: none;
-    font-weight: bold;
-}
+.contact-info a { color: var(--primary); text-decoration: none; font-weight: bold; }
 
-.copyright {
-    margin-top: 50px;
-    font-size: 0.9rem;
-    color: #666;
-}
+.copyright { margin-top: 50px; font-size: 0.9rem; color: #666; text-align: center; }
 
-/* Responsive pour mobiles */
 @media (max-width: 600px) {
-    .hero-nav {
-        grid-template-columns: 1fr;
-    }
-    .hero-content h1 {
-        font-size: 2.5rem;
-    }
+    .hero-nav { grid-template-columns: 1fr; }
+    .hero-content h1 { font-size: 2.5rem; }
 }
